@@ -14,7 +14,7 @@
 - 네비게이션드로어 `#f07878` ~ `#ffafaf`
 
 ## Resources 
-- `ic_bookmark.png` : 북마크 .
+- `ic_bookmark.png` : 북마크 아이콘입니다.
 - `ic_cudtomer_center.png` : 고객센터 아이콘입니다.
 - `ic_event.png` : 이벤트 아이콘입니다.
 - `ic_information.png` : 정보 아이콘입니다.
